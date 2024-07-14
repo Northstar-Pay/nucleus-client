@@ -22,7 +22,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import openapi "github.com/northstar-pay/nucleus-client"
+import openapi "github.com/Northstar-Pay/nucleus-client"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:

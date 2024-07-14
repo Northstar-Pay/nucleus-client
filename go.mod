@@ -1,4 +1,4 @@
-module github.com/northstar-pay/nucleus-client
+module github.com/Northstar-Pay/nucleus-client
 
 go 1.18
 
